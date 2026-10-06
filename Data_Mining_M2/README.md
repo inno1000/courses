@@ -2,8 +2,6 @@
 
 Université de Ngaoundéré — **Pr Ndam Njoya Arouna**
 
-Ce dossier contient **uniquement les fichiers prêts à l’emploi** : polycopiés PDF, exemples Python et feuilles de TD.
-
 ## Par chapitre
 
 | Élément | Fichier / dossier |
