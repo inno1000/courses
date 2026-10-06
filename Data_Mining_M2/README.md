@@ -20,8 +20,4 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-(`requirements.txt` à la racine du projet lorsque vous recevez l’archive complète.)
-
-## Regénération (enseignants)
-
-Depuis la racine du dépôt source : `scripts\build_cours_pdf.ps1`
+(`requirements.txt` à la racine de ce dossier.)
